@@ -1,0 +1,26 @@
+.header{
+  display: flex;
+  padding: 20px 0;
+  width: 50%;
+  height: 120%;
+  }
+  .logo{
+      justify-content: center;
+      width: 1150px;
+      left: 2000px;
+      height: 35px;
+      margin-left: 18em;
+  margin-right: auto;
+      }
+
+.logo1 {
+      justify-content: left;  
+      padding-left: 25px;       
+      height: 75px;
+      }
+.invoice p{
+  color: white;
+  font-size: 1.5em;
+  margin-left: 1.3em;
+  margin-top: -1em;
+}
